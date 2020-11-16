@@ -51,7 +51,7 @@ const Welcome = ({
           />
 
           <Button colorScheme='teal' size='lg' type='submit' value='Submit'>
-            Submit
+            Continue
           </Button>
         </Stack>
       </form>
