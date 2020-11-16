@@ -21,12 +21,22 @@
 4. If something needs to be corrected, one can always go back and re-correct.
 5. Finally, A Confirmation Screen, where user would be verified about the Success message.
 
-###
 
-Welcome :
+## Project Screnshot
+
+ Welcome:
 ![Welcome](https://github.com/abhinav-anshul/cosi-group/blob/main/Screenshot/welcome.PNG)
 
-Detail :
+ Detail :
+![Detail](https://github.com/abhinav-anshul/cosi-group/blob/main/Screenshot/detail.png)
+
+ Review :
+![Review](https://github.com/abhinav-anshul/cosi-group/blob/main/Screenshot/review.PNG)
+
+ Confirmed :
+![Confirmed](https://github.com/abhinav-anshul/cosi-group/blob/main/Screenshot/confirm.PNG)
+
+
 
 ## How Can You Contribute ?
 
