@@ -11,7 +11,8 @@
 4. Axios - For API calls
 5. React Router DOM - For Component based navigation through pages
 6. Eslint/Prettier - For locally Prettifying Code.
-7. Finally I have chosen Netlify for project deployment.
+7. Mocki API - For posting dummy data and receiving a message.
+8. Finally I have chosen Netlify for project deployment.
 
 
 ## Walkthrough :
