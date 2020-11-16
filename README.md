@@ -2,9 +2,8 @@
 
 ## Fire up https://cosi.abhinavanshul.com for live demo.
 
-
-
 ## This is a React Application built using CRA template. The Tech Stack I have used here are :
+
 1. ReactJS - Framework
 2. Chakra UI - Design System
 3. Framer Motion - For minor animation
@@ -14,21 +13,20 @@
 7. Mocki API - For posting dummy data and receiving a message.
 8. Finally I have chosen Netlify for project deployment.
 
-
 ## Walkthrough :
+
 1. A welcome Screen requiring users to put data such as lastname and the flight number.
 2. Once Submitted, user needs to fill in the form about personal details.
-3. Read through the Terms & Condition , review the details.
+3. Read through the Terms & Condition, review the details.
 4. If something needs to be corrected, one can always go back and re-correct.
 5. Finally, A Confirmation Screen, where user would be verified about the Success message.
 
+###
+
+Welcome :
+<img src="../cosi-group/Screenshot/welcome.PNG>
 
 ## How Can You Contribute ?
+
 1. Open up an issue if there are any bugs you have encountered or even a feature request.
 2. For beginners, There is a `good first issue` fairly simple to get you started contributing.
-
-
-
-
-
-
