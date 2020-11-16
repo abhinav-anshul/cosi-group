@@ -1,6 +1,6 @@
 # Welcome to Cosi Group Web Check-in.
 
-## Fire up https://cosi.abhinavanshul.com/welcome for live demo.
+## Fire up https://cosi.abhinavanshul.com for live demo.
 
 
 
