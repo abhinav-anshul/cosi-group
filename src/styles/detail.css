@@ -1,0 +1,11 @@
+@media only screen and (min-width: 1000px) {
+}
+
+@media only screen and (min-width: 1000px) {
+}
+
+.detail {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 110px 0px 70px 0px;
+}
