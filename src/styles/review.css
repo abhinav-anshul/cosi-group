@@ -1,5 +1,23 @@
-.review {
-  max-width: 400px;
-  margin: 0 auto;
-  padding: 110px 0px 70px 0px;
+@media only screen and (min-width: 100px) {
+  .review {
+    max-width: 250px;
+    margin: 0 auto;
+    padding: 110px 0px 70px 0px;
+  }
+}
+
+@media only screen and (min-width: 500px) {
+  .review {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 110px 0px 70px 0px;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .review {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 110px 0px 70px 0px;
+  }
 }
