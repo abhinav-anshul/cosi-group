@@ -24,7 +24,9 @@
 ###
 
 Welcome :
-<img src="../cosi-group/Screenshot/welcome.PNG>
+![Welcome](https://github.com/abhinav-anshul/cosi-group/blob/main/Screenshot/welcome.PNG)
+
+Detail :
 
 ## How Can You Contribute ?
 
