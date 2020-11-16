@@ -24,7 +24,8 @@
 
 
 ## How Can You Contribute ?
-1. Open up a issue if there is any bugs you have encountered or even a feature request.
+1. Open up an issue if there are any bugs you have encountered or even a feature request.
+2. For beginners, There is a `good first issue` fairly simple to get you started contributing.
 
 
 
