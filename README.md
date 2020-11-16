@@ -1,6 +1,6 @@
 # Welcome to Cosi Group Web Check-in.
 
-## Fire up https://cosi.abhinavanshul.com/welcome for live demo.
+## Fire up https://cosi.abhinavanshul.com for live demo.
 
 
 
@@ -11,7 +11,8 @@
 4. Axios - For API calls
 5. React Router DOM - For Component based navigation through pages
 6. Eslint/Prettier - For locally Prettifying Code.
-7. Finally I have chosen Netlify for project deployment.
+7. Mocki API - For posting dummy data and receiving a message.
+8. Finally I have chosen Netlify for project deployment.
 
 
 ## Walkthrough :
@@ -23,7 +24,8 @@
 
 
 ## How Can You Contribute ?
-1. Open up a issue if there is any bugs you have encountered or even a feature request.
+1. Open up an issue if there are any bugs you have encountered or even a feature request.
+2. For beginners, There is a `good first issue` fairly simple to get you started contributing.
 
 
 
