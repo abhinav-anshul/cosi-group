@@ -25,7 +25,7 @@ export default function App() {
         <ChakraProvider>
           <Router>
             <Switch>
-              <Route exact path='/welcome'>
+              <Route path='/welcome'>
                 <Welcome
                   rendersetlastname={setlastname}
                   rendersetflightnumber={setflightnumber}
